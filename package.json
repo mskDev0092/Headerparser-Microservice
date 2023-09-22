@@ -1,0 +1,24 @@
+{
+  "author": "Shehzad Khan",
+  "name": "request-header-parser-microservice",
+
+  "version": "0.0.1",
+  "description": "API project for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.18.1"
+  },
+  
+  
+  "keywords": [
+    "freeCodeCamp",
+    "node",
+    "express"
+  ]
+  
+}
