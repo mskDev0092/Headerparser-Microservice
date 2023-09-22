@@ -1,8 +1,8 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
+	color: #f6efef;
+	background-color: #080101;
 	text-align: center;
 	line-height: 1.4em;
 }
@@ -10,6 +10,7 @@ body {
 .container {
 	padding: 0;
 	margin-top: 40px;
+	border: 1px solid wheat;
 }
 
 h3 {
