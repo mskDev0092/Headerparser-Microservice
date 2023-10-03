@@ -3,7 +3,7 @@
 
 The Header Parser Microservice project by freeCodeCamp is a Node.js API that can parse the request headers of an HTTP request and return the IP address, preferred language, and software of the client. It is a good project for beginners to practice building microservices, as it is relatively straightforward to implement and passes a variety of tests.
 
-## To build the Header Parser Microservice, you will need to:
+## To build your own Header Parser Microservice, you will need to:
 
 > Create a new Node.js project and install the Express.js framework.
 
